@@ -13,7 +13,7 @@ These folders hold templates that are used to create Pulumi projects. If project
 2. Instantiate a new project:
 
    ```sh
-   pulumi new https://github.com/wwt/pulumi-templates/folder-name
+   pulumi new https://github.com/brianbrifri/pulumi-templates/folder-name
    ```
 
 3. Follow the prompts to configure your deployment.
